@@ -7,7 +7,7 @@ Já tendo trabalhado nos setores de <b>Varejo e Mercado Financeiro em análise d
 
 
 <div>
-<a href="mailto:juan.monteirov@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:juan.monteirov@gmail.com" target="blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </br>
 <a href="https://linkedin.com/in/juanveronez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juanveronez" height="30" width="40" /></a>
 <a href="https://kaggle.com/juanmonteirov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="juanmonteirov" height="30" width="40" /></a>
