@@ -35,11 +35,10 @@ Atualmente atuando em projeto de análise de dados com foco em engenharia de pro
 </div>
 
 <ul>
-<li>Power BI e Excel para análise de dados</li>
-<li>Liguagem Python e suas Libraries (Pandas, Seaborn, Scikit-Learn, ...);</li>
+<li>Processos de ETL e ciclo de dados usando Python</li>
+<li>Liguagem Python e suas Libraries (Pandas, Seaborn, ...);</li>
 <li>Linguaguem de Banco de Dados Relacionais (PostgreSQL);</li>
 <li>Data Cleaning, Data Visualization e Data Storytelling;</li>
-<li>Visão computacional e modelos de processamento de imagem;</li>
 </ul>
 
 <!--
