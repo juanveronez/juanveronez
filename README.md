@@ -1,9 +1,10 @@
 <h1 align="justify">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/juanveronez/">Juan Veronez</a> 😃️</h1>
-<h3 align="justify">Analista de Dados e entusiasta em Ciência de Dados</h3>
+<h3 align="justify">Engenheiro de Dados</h3>
 
 Me formando em Ciência da Computação, com 4 anos de experiência na área de tecnologia e me especializando em
-análise de dados. </br>
+Engenharia de Dados. </br>
 Já tendo trabalhado nos setores de <b>Varejo e Mercado Financeiro em análise de dados e em projetos de Supply Chain e Finanças</b> como desenvolvedor.
+Atualmente atuando em projeto de análise de dados com foco em engenharia de produção utilizando SQL e Tableau.
 
 
 <div>
