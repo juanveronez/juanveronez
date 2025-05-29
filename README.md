@@ -1,57 +1,68 @@
-<h1 align="justify">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/juanveronez/">Juan Veronez</a> 😃️</h1>
-<h3 align="justify">Engenheiro de Dados</h3>
-
-Me formando em Ciência da Computação, com 4 anos de experiência na área de tecnologia e me especializando em
-Engenharia de Dados. </br>
-Já tendo trabalhado nos setores de <b>Varejo e Mercado Financeiro em análise de dados e em projetos de Supply Chain e Finanças</b> como desenvolvedor.
-Atualmente atuando em projeto de análise de dados com foco em engenharia de produção utilizando SQL e Tableau.
-
-
-<div>
-<a href="mailto:juan.monteirov@gmail.com" target="blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</br>
-<a href="https://linkedin.com/in/juanveronez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juanveronez" height="30" width="40" /></a>
-<a href="https://kaggle.com/juanmonteirov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="juanmonteirov" height="30" width="40" /></a>
-
-</div>
-
-<div align="center" valign="top"><br>
-  <h2>Linguagens e Ferramentas 💻</h2></br>
-</div>
-<div align="center" valign="top">
-  <p> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-</div>
-</br>
 <div align="center">
-  <a href="https://github.com/italo013">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=juanveronez&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanveronez&theme=dracula&hide_border=false&&layout=compact"/>
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/juanveronez/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:juan.monteirov@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Juan.monteirov&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
 
+###
 
-<div>
-  <h2 align="left"> O que tenho estudado 📚</h2>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=juanveronez.juanveronez&"  />
 </div>
 
-<ul>
-<li>Processos de ETL e ciclo de dados usando Python</li>
-<li>Liguagem Python e suas Libraries (Pandas, Seaborn, ...);</li>
-<li>Linguaguem de Banco de Dados Relacionais (PostgreSQL);</li>
-<li>Data Cleaning, Data Visualization e Data Storytelling;</li>
-</ul>
+###
 
-<!--
-**juanveronez/juanveronez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hello, I'm Juan 👋</h1>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">- 🌎 I'm from Campinas, Brazil<br>- 🔭 I’m working as Front End Developer<br>- 📚 I'm currently learning: BFF, NodeJS and Java<br>- ⚡ In my free time I like to cook with my family</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=juanveronez&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
