@@ -1,68 +1,80 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+# Hi, I'm Juan Veronez 👋
 
-###
+Software Engineer Full Stack with 4+ years of experience building scalable software solutions for digital products.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/juanveronez/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:juan.monteirov@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Juan.monteirov&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
+My background is mainly focused on **Front-end and Full Stack development**, but this GitHub is intentionally used as a **technical complement** to showcase projects related to **Backend, Cloud and CI/CD**, areas that I continuously explore beyond my day-to-day work.
 
-###
+---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=juanveronez.juanveronez&"  />
-</div>
+## 🧠 About Me
 
-###
+- Software Engineer working with **React, Node.js, TypeScript and AWS**
+- Experience in **software architecture, scalable systems and technical leadership**
+- Strong background in **product-oriented development**, agile environments and cross-functional teams
+- Passionate about clean code, architecture decisions and automation
 
-<h1 align="center">Hello, I'm Juan 👋</h1>
+Currently working on projects that highlight:
+- Backend architecture and API design
+- CI/CD pipelines and automation
+- Cloud infrastructure and deployment strategies
 
-###
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
+## 🛠️ Tech Stack
 
-###
+**Languages & Frameworks**
+- JavaScript / TypeScript
+- React
+- Node.js
+- NestJS / Express
 
-<p align="left">- 🌎 I'm from Campinas, Brazil<br>- 🔭 I’m working as Front End Developer<br>- 📚 I'm currently learning: BFF, NodeJS and Java<br>- ⚡ In my free time I like to cook with my family</p>
+**Backend & APIs**
+- REST & GraphQL
+- gRPC
+- Software Architecture
+- Design Patterns
 
-###
+**Cloud & DevOps**
+- AWS
+- CI/CD (GitHub Actions)
+- Docker
+- Infrastructure as Code (Terraform / CDK – experimental)
 
-<h3 align="left">🛠 Language and tools</h3>
+**Testing & Quality**
+- Jest
+- Vitest
+- Automated Testing
+- Clean Architecture principles
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-</div>
+## 📌 Featured Projects
 
-###
+Here you’ll find a small selection of **intentional projects**, focused on architecture, backend and cloud concepts rather than tutorials or experiments.
 
-<h3 align="left">🔥   My Stats :</h3>
+Each project includes:
+- Clear problem definition
+- Architecture overview
+- Technical decisions
+- Instructions to run locally
+- CI/CD or Cloud setup when applicable
 
-###
+👉 Quality over quantity is the main principle here.
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=juanveronez&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+---
 
-###
+## 📈 What I'm Looking For
+
+Opportunities to work as a **Software Engineer / Full Stack Engineer**, contributing with:
+- Scalable and well-structured solutions
+- Technical leadership and mentorship
+- Product-driven engineering mindset
+
+---
+
+## 📫 Get in Touch
+
+- LinkedIn: https://www.linkedin.com/in/juanveronez  
+- Email: juan.monteirov@gmail.com  
+
+Feel free to explore the repositories or reach out for a technical conversation.
